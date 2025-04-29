@@ -180,7 +180,7 @@
     <img src="https://images.unsplash.com/photo-1600794282054-c52a60be4006?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjQyOXwwfDF8c2VhcmNofDJ8fG1vZGVsJTIwcGhvbmUlMjB0YWRpbmd8ZW58MHx8fHwxNjE4MjMwMjQy&ixlib=rb-1.2.1&q=80&w=1080" alt="Model with Headset" class="hero-img">
     <div class="button-group">
       <a href="#signup">Create Account Now</a>
-      <a href="https://www.twilio.com/try-twilio" target="_blank">Try Twilio</a>
+      <a href="https://www.twilio.com/try-twilio" target="_blank">Create Account Now</a>
     </div>
   </section>
 
